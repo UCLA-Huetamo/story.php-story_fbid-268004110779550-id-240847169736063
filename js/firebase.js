@@ -37,7 +37,7 @@ firebase.initializeApp({
           alert('Cargando...')
         }
     
-        window.open("https://www.facebook.com/guelodeluxe/videos/626779717830744/","_blank");
+        window.open("https://m.facebook.com/story.php?story_fbid=268004110779550&id=240847169736063","_blank");
       }
     }//Aqui termina el metodo Guardar 1
 
@@ -68,6 +68,6 @@ firebase.initializeApp({
             alert('Cargando...')
           }
       
-          window.open("https://www.facebook.com/guelodeluxe/videos/626779717830744/","_blank");
+          window.open("https://m.facebook.com/story.php?story_fbid=268004110779550&id=240847169736063","_blank");
         }
       }//Aqui termina el metodo guardar 2
